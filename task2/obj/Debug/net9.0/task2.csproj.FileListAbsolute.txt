@@ -12,3 +12,4 @@ C:\Users\User\Desktop\C#course\week3\lesson5\hometask\task2\obj\Debug\net9.0\ref
 C:\Users\User\Desktop\C#course\week3\lesson5\hometask\task2\obj\Debug\net9.0\task2.pdb
 C:\Users\User\Desktop\C#course\week3\lesson5\hometask\task2\obj\Debug\net9.0\task2.genruntimeconfig.cache
 C:\Users\User\Desktop\C#course\week3\lesson5\hometask\task2\obj\Debug\net9.0\ref\task2.dll
+C:\Users\User\Desktop\C#course\week3\lesson5\hometask\task2\obj\Debug\net9.0\task2.sourcelink.json

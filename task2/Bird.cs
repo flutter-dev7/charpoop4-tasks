@@ -25,9 +25,14 @@ public class Bird
     {
        return _birds.Exists(b => b == 0);
     }
-    public int CountForFirstDays()
+    public int CountForFirstDays(int days)
     {
-        return _birds.Sum();
+        int sum = 0;
+        for(int i = 0; i < days; i++)
+        {
+            sum += _birds[i];
+        }
+        return sum;
     }
     public int BusyDays()
     {

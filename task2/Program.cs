@@ -12,7 +12,7 @@ System.Console.WriteLine("Today: " + birdCount);
 bird.IncrementTodaysCount();
 bool hasDayWithoutBirds = bird.HasDayWithoutBirds();
 System.Console.WriteLine(hasDayWithoutBirds);
-int countFirstDays = bird.CountForFirstDays();
+int countFirstDays = bird.CountForFirstDays(4);
 System.Console.WriteLine("Sum: " + countFirstDays);
 int busyDays = bird.BusyDays();
 System.Console.WriteLine(busyDays);
